@@ -1,0 +1,28 @@
+{
+  "name": "svexpress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisGustavoRSilva/svexpress.git"
+  },
+  "author": "Luis Gustavo Rodrigues Da Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuisGustavoRSilva/svexpress/issues"
+  },
+  "homepage": "https://github.com/LuisGustavoRSilva/svexpress#readme",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "helmet": "^8.1.0",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.13.0"
+  }
+}
